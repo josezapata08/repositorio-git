@@ -16,12 +16,14 @@
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-}
+} 
 a {
 	color: red;
 }
 
-
+li {
+ list:style: none;
+}
 
 }
 p{
